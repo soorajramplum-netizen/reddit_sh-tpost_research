@@ -1,0 +1,104 @@
+subreddit,lens,cohort,sub_cohort,priority,comments,comments_since,activity_90d
+IndianSkincareAddicts,category,beauty,skincare,1,yes,,very high
+SkincareAddictsIndia,category,beauty,skincare,1,yes,,very high
+IndianBeautyTalks,category,beauty,general,1,yes,,very high
+IndianMakeupAddicts,category,beauty,makeup,1,yes,,high
+IndianHaircare,category,beauty,haircare,1,yes,,very high
+DesiFragranceAddicts,category,beauty,fragrance,1,yes,,very high
+IndianBeautyDeals,category,beauty,deals,2,yes,,very high
+IndianBeautyHauls,category,beauty,hauls,2,yes,,very high
+nykaa,category,beauty,retailer,3,yes,,low
+IndianFashionAddicts,category,fashion,general,1,never,,very high
+IndianFashion,category,fashion,general,1,never,,very high
+IndianStreetwear,category,fashion,streetwear,2,never,,low
+IndianFood,category,food,general,1,yes,,high
+IndianCooking,category,food,cooking,1,yes,,very high
+IndiaCoffee,category,food,beverages,1,yes,,very high
+IndianSnacks,category,food,snacks,1,yes,,low
+mumbaifood,category,food,eating_out,2,yes,,high
+IndianFoodPhotos,category,food,photos,3,never,,very high
+IndianFitness,category,health,fitness,1,yes,,high
+IndianGymRats,category,health,fitness,2,yes,,medium
+PCOSIndia,category,health,womens_health,1,yes,,medium
+IndiaMentalHealth,category,health,mental_health,1,yes,,very high
+mentalhealthindia,category,health,mental_health,2,yes,,low
+Ayurveda,category,health,traditional,2,yes,,medium
+curlyhairindia,category,beauty,haircare,3,yes,,low
+diabetesindia,category,health,diabetes,3,yes,,low
+TwoXIndia,cohort,women,life,1,yes,,very high
+AskIndianWomen,cohort,women,life,1,yes,,very high
+IndianWomen,cohort,women,life,2,yes,,very high
+AskIndianMen,cohort,men,life,1,never,,very high
+indianrelationships,cohort,relationships,dating_marriage,2,yes,2025-01-01,very high
+IndianWeddings,cohort,life_stage,wedding,2,yes,,medium
+IndianTeenagers,cohort,life_stage,teens,2,never,,very high
+parentingindia,cohort,life_stage,parents,2,yes,,low
+indiaparenting,cohort,life_stage,parents,2,yes,,low
+IndiaShopping,cohort,shopper,shopping,2,yes,,medium
+amazonindia,cohort,shopper,ecommerce,2,yes,,very high
+blinkit,cohort,shopper,quick_commerce,2,yes,,medium
+swiggy,cohort,shopper,food_delivery,2,yes,,high
+zomato,cohort,shopper,food_delivery,2,yes,,very high
+IndianHomeDecor,cohort,lifestyle,home,2,never,,very high
+IndiaTravel,cohort,lifestyle,travel,3,never,,high
+indiasocial,cohort,lifestyle,social,3,never,,very high
+NRI,cohort,lifestyle,diaspora,3,never,,very high
+IndianWorkplace,cohort,work,workplace,2,never,,very high
+developersIndia,cohort,work,young_professional,3,never,,very high
+Indian_Academia,cohort,work,students,3,never,,very high
+personalfinanceindia,cohort,money,personal_finance,3,no,,very high
+IndiaInvestments,cohort,money,investing,4,never,,very high
+IndianStockMarket,cohort,money,trading,4,never,,very high
+IndianGaming,cohort,lifestyle,gaming,4,never,,very high
+IndiaTech,cohort,lifestyle,tech,4,never,,very high
+CarsIndia,cohort,lifestyle,cars,4,no,,very high
+IndianBikes,cohort,lifestyle,bikes,4,no,,very high
+india,place,general,national,3,never,,very high
+AskIndia,place,general,national,3,never,,very high
+IndiaSpeaks,place,general,national,4,never,,very high
+unitedstatesofindia,place,general,national,4,never,,very high
+bangalore,place,city,tier1,3,never,,very high
+delhi,place,city,tier1,3,never,,very high
+mumbai,place,city,tier1,3,never,,very high
+Chennai,place,city,tier1,3,never,,very high
+kolkata,place,city,tier1,3,never,,very high
+hyderabad,place,city,tier1,3,never,,very high
+pune,place,city,tier1,3,never,,very high
+gurgaon,place,city,tier1,3,never,,very high
+noida,place,city,tier1,3,never,,very high
+Thane,place,city,tier1,4,never,,very high
+navimumbai,place,city,tier1,4,never,,very high
+ahmedabad,place,city,tier2,3,never,,very high
+jaipur,place,city,tier2,3,never,,very high
+lucknow,place,city,tier2,3,never,,very high
+kochi,place,city,tier2,3,never,,very high
+Chandigarh,place,city,tier2,3,never,,very high
+indore,place,city,tier2,3,never,,very high
+coimbatore,place,city,tier2,3,never,,very high
+surat,place,city,tier2,3,never,,very high
+nagpur,place,city,tier2,3,never,,very high
+Vadodara,place,city,tier2,4,never,,very high
+bhopal,place,city,tier2,4,never,,very high
+patna,place,city,tier2,4,never,,very high
+Bhubaneswar,place,city,tier2,4,never,,very high
+guwahati,place,city,tier2,4,never,,very high
+kanpur,place,city,tier2,4,never,,very high
+mysore,place,city,tier2,4,never,,very high
+mangalore,place,city,tier2,4,never,,very high
+Madurai,place,city,tier2,4,never,,very high
+Dehradun,place,city,tier2,4,never,,very high
+Ranchi,place,city,tier2,4,never,,very high
+Raipur,place,city,tier2,4,never,,very high
+Ludhiana,place,city,tier2,4,never,,very high
+goa,place,city,tier2,4,never,,high
+Kerala,place,state,south,3,never,,very high
+TamilNadu,place,state,south,3,never,,very high
+IndiaFood,category,food,general,1,yes,,high
+proteinindia,category,food,protein_snacks,1,yes,,low
+Chai,category,food,beverages,2,yes,,low
+indianstreetfood,category,food,street_food,2,yes,,low
+bangalorefoodies,category,food,eating_out,2,yes,,high
+foodiesofindia,category,food,general,3,yes,,low
+zepto,cohort,shopper,quick_commerce,2,yes,,medium
+swiggyinstamart,cohort,shopper,quick_commerce,2,yes,,low
+BigBasket,cohort,shopper,grocery,3,yes,,low
